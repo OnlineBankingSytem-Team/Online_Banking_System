@@ -6,7 +6,7 @@ Projedeki java kodları src/main/java altında olacak şekilde yaptım. Controll
 
 Projedenin veritabanına bağlandığı connection stringinin olduğu veya configürasyonun yapıldığı yer src/main/resource altında. Bu kısım pek sizi ilgilendirmiyor ama ne olduğunu bilin yine de. Tablolara bir şey ekleyeceğiniz zaman haber edin. Ben hallederim. 
 
-Projedeki jsp dosyalarını ise src/main/webapp/jsp altında yapacaksınız. Dosyalama kısmına biraz özen gösterin lütfen en azından hepsi birbiri altında olsun. Bulması kolay olsun. Mesela adminle alakalı olan jspler admin klasörü altında olsun gibi düşünebilirsiniz.
+Projedeki jsp dosyalarını ise src/main/webapp/WEB-INF ile aynı yerde yapacaksınız yoksa çalışmıyor. Dosyalama kısmına biraz özen gösterin lütfen en azından hepsi birbiri altında olsun. Bulması kolay olsun. Mesela adminle alakalı olan jspler admin klasörü altında olsun gibi düşünebilirsiniz.
  
  
  
